@@ -116,7 +116,7 @@ kubectl apply -f service.yaml -n keptn
 ## CloudEvents
 
 Please note that CloudEvents have to be sent with the HTTP header `Content-Type: application/cloudevents+json` to be set.
-For a detailed look into CloudEvents, please go the Keptn [CloudEvent specification](https://github.com/keptn/spec/blob/0.1.5/cloudevents.md). 
+For a detailed look into CloudEvents, please go the Keptn [CloudEvent specification](https://github.com/keptn/spec/blob/0.1.6/cloudevents.md). 
 
 ## Logging
 
